@@ -19,7 +19,7 @@ Este repositório reúne o arquivo editável do esquema do Proteus e uma imagem 
 | [Amplificador 10+10W - AU7.DSN](./Amplificador%2010%2B10W%20-%20AU7.DSN) | Esquema editável do Proteus. |
 | [amplificador_tda2004_esquema.png](./amplificador_tda2004_esquema.png) | Captura do esquema para consulta rápida. |
 
-## Componentes identificados no esquema
+## Componentes no esquema
 
 | Referência | Componente/valor |
 | --- | --- |
