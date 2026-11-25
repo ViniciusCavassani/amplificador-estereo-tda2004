@@ -56,7 +56,7 @@ A numeração dos pinos e a ligação exata devem ser conferidas diretamente no 
 3. Selecione `Amplificador 10+10W - AU7.DSN`.
 4. Se a sua versão não abrir diretamente o arquivo, verifique a compatibilidade/importação de projetos de versões anteriores do Proteus.
 
-A versão do Proteus usada para salvar o arquivo não foi anotada.
+Proteus 8.
 
 ## Situação do projeto
 
@@ -68,12 +68,12 @@ A versão do Proteus usada para salvar o arquivo não foi anotada.
 
 ## Contexto e datas
 
-Este é um exercício antigo de aprendizado. Os metadados exportados do projeto indicam criação em **5 de maio de 2025** e modificação em **2 de junho de 2025**. Essas datas descrevem o arquivo de projeto exportado e não comprovam, por si só, quando a montagem física foi feita.
+Este é um exercício antigo de aprendizado. Criado e atualizado entre **5 de maio de 2025** a **2 de junho de 2025**. Essas datas descrevem o arquivo do projeto, a montagem física foi feita logo após.
 
 ## Aviso
 
-Este material é compartilhado como registro de estudo. O esquema não substitui a folha de dados do TDA2004R nem uma revisão elétrica da montagem. Antes de ligar o circuito, confira polaridade dos capacitores, pinagem do integrado, tensão da fonte, impedância dos alto-falantes, dissipação térmica e continuidade das conexões.
+Este material esta sendo compartilhado como registro de estudo e prática. O esquema não substitui a folha de dados do TDA2004R nem uma revisão elétrica da montagem. Antes de ligar o circuito, confira polaridade dos capacitores, pinagem do integrado, tensão da fonte, impedância dos alto-falantes, dissipação térmica e continuidade das conexões.
 
 ## Licença
 
-Nenhuma licença de reutilização foi definida neste repositório.
+Nenhuma licença de reutilização.
